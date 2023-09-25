@@ -1,0 +1,61 @@
+
+.label{
+    font-style: italic;
+    border-style: dashed;
+    background-color:navajowhite
+}
+.submit{
+    border-radius: 25%;
+    background-color: aqua;
+}
+#pass{
+    border-style: dashed;
+    background-color:navajowhite
+}
+
+.headertable{
+    background-color: aqua;
+}
+.colspan1{
+   background-color: chartreuse;
+   font-family: 'Courier New', Courier, monospace;
+   font-style: inherit;
+   color:blue;
+}
+.bordertable{
+    border: 1;
+    border-style: dashed;
+}
+.button{
+    border-radius: 50px;
+    height: 30px;
+    inline-size: 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-width: 10px;
+    border-color: aqua;
+    text-rendering: geometricPrecision;
+}
+.button1{
+    border-radius: 55px;
+    height: 30px;
+    background: turquoise;
+   padding-top: 1px;
+   padding-bottom: 1px;
+   padding-right: 1%;
+   text-align: center;
+   border: blue;
+   background-clip: padding-box;
+}
+.button2{
+    background-attachment: fixed;
+    width: 25%;
+}
+p:hover{
+    background-color: aquamarine;
+}
+a:hover{
+    background-color: blue;
+}
